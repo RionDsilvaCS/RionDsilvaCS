@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on StressAway<br>👯 I’m looking to collaborate on Machine Learning Projects<br>🌱 I’m currently learning Android Development<br>
+🔭 I’m currently working as Machine Learning Engineer Intern ![@Proglint Software Solutions](https://www.proglint.com/)<br>👯 I’m looking to collaborate on Consumer Product Development<br>🌱 I’m currently learning Deep Learning<br>
 
 
 # 💻 Tech Stack:
